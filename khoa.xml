@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Khoas>
+  <Khoa>
+    <Lop>GiangVien</Lop>
+    <Mvc>34</Mvc>
+    <Tvc>dinhdinh</Tvc>
+    <Ns>2003</Ns>
+    <Gioitinh>nu</Gioitinh>
+    <hsl>3.0</hsl>
+    <tn>2</tn>
+  </Khoa>
+  <Khoa>
+    <Lop>Giaovukhoa</Lop>
+    <Mvc>35</Mvc>
+    <Tvc>BaoBao</Tvc>
+    <Ns>2002</Ns>
+    <Gioitinh>nam</Gioitinh>
+    <hsl>2.5</hsl>
+    <tn>7</tn>
+    <hsql>2</hsql>
+  </Khoa>
+  <Khoa>
+	  <Lop>CanBo</Lop>
+    <Mvc>36</Mvc>
+    <Tvc>Trieuvi</Tvc>
+    <Ns>2000</Ns>
+    <Gioitinh>nam</Gioitinh>
+    <hsl>1.0</hsl>
+    <tn>5</tn>
+    <hscv>3.0</hscv>
+  </Khoa>
+</Khoas>
