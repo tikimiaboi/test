@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ThongTinHocSinhs>
+	<ThongTinHocSinh>
+		<Lop>Cap1</Lop>
+		<Mshs>34</Mshs>
+		<hoten>  Hu Truc</hoten>
+		<NamSinh>1960</NamSinh>	
+	</ThongTinHocSinh>
+	<ThongTinHocSinh>
+		<Lop>Cap2</Lop>
+		<Mshs>523</Mshs>
+		<hoten>  Doan Du</hoten>
+		<NamSinh>1963</NamSinh>
+		<lp>Lop Chon</lp>
+	</ThongTinHocSinh>
+	<ThongTinHocSinh>
+		<Lop>Cap3</Lop>
+		<Mshs>436</Mshs>
+		<hoten>  Tieu Phong</hoten>
+	    <NamSinh>1959</NamSinh>
+		<PhanBan>Tu Nhien</PhanBan>
+	</ThongTinHocSinh>
+	</ThongTinHocSinhs>
